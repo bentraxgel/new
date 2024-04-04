@@ -1,3 +1,6 @@
 [submodule "first"]
 	path = first
 	url = git@github.com:bentraxgel/first.git
+[submodule "second42"]
+	path = second42
+	url = git@github.com:bentraxgel/second42.git
